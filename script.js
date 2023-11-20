@@ -1,7 +1,7 @@
 //your JS code here. If required.
 function submitForm(){
 	
-alert("Form submitted!");
+//alert("Form submitted!");
 Document.getElementById(form).submit();
 }
 submitForm();
