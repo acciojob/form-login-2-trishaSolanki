@@ -2,6 +2,6 @@
 function submitForm(){
 	
 alert("Form submitted!");
-let form = Document.getElementById(form).submit();
+Document.getElementById(form).submit();
 }
 submitForm();
