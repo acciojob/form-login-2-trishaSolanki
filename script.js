@@ -5,8 +5,8 @@ function submitForm(){
 	var PhoneNumber = document.getElementById("phoneNumber").value;
 	var Email = document.getElementById("email").value;
 
-	alert("First Name: " + First Name);
-	alert("Last Name : " + Last Name);
-	alert("Phone Number : " + Phone Number);
-	alert("Email : " + Email ID);
+	alert("First Name: " + FirstName);
+	alert("Last Name : " + LastName);
+	alert("Phone Number : " + PhoneNumber);
+	alert("Email : " + Email);
 }
